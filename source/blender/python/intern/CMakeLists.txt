@@ -56,6 +56,7 @@ set(SRC
 	bpy_app_oiio.c
 	bpy_app_sdl.c
 	bpy_app_translations.c
+	bpy_data.c
 	bpy_driver.c
 	bpy_interface.c
 	bpy_interface_atexit.c
@@ -85,6 +86,7 @@ set(SRC
 	bpy_app_oiio.h
 	bpy_app_sdl.h
 	bpy_app_translations.h
+	bpy_data.h
 	bpy_driver.h
 	bpy_intern_string.h
 	bpy_library.h
